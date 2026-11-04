@@ -1,0 +1,101 @@
+# NEUROCORE
+## Research and Evaluation License
+**Version 1.0 — 4 November 2026**
+
+Copyright © 2025 Davide Luca Nicoletti. All rights reserved.
+
+### 1. Copyright and ownership
+
+NeuroCore, including its original source code, computational architecture, original algorithms, documentation, methodological implementations and associated materials, is protected by applicable copyright and intellectual property laws.
+
+The author retains all rights, title and interest in the original materials, except for rights expressly granted under this License.
+
+### 2. Permitted research use
+
+The author grants a limited, non-exclusive, non-transferable, revocable license to:
+
+- Academic researchers and research institutions.
+- Universities and non-profit scientific organizations.
+- Independent researchers conducting non-commercial scientific investigations.
+
+The permitted activities include:
+
+- Accessing and evaluating the software.
+- Executing the software for non-commercial research.
+- Conducting reproducibility and validation studies.
+- Modifying the software for internal, non-commercial research purposes.
+- Publishing scientific findings obtained through authorized use of the software.
+
+### 3. Attribution and scientific citation
+
+Any scientific publication, technical report, presentation or research output substantially relying on NeuroCore must provide appropriate attribution to:
+
+**Davide Luca Nicoletti**
+
+ORCID: https://orcid.org/0009-0002-2605-7729
+
+Where applicable, users must cite the relevant software release or associated DOI.
+
+Attribution does not imply endorsement by the author of any research findings or conclusions.
+
+### 4. Restrictions
+
+Without prior written authorization from the copyright holder, users may not:
+
+- Use NeuroCore for commercial purposes.
+- Sell, sublicense, rent or commercially distribute the software.
+- Redistribute the original source code or modified versions publicly.
+- Incorporate NeuroCore or substantial portions of its original implementation into proprietary commercial products.
+- Transfer or grant third parties rights exceeding those expressly provided by this License.
+- Remove or alter copyright notices and attribution information.
+
+### 5. Institutional research and collaboration
+
+Universities and research institutions may conduct independent evaluations and non-commercial research using NeuroCore.
+
+Collaboration with external commercial entities, commercial sponsorship involving exploitation rights, or incorporation into commercially oriented research and development activities requires a separate written agreement with the copyright holder.
+
+Scientific publication of research results remains permitted, subject to the attribution requirements and protection of third-party rights.
+
+### 6. Commercial licensing
+
+Commercial use, industrial integration, product development, commercial deployment and other forms of commercial exploitation require a separate written licensing agreement.
+
+The copyright holder reserves the right to negotiate individual commercial licenses, including licensing fees, institutional agreements and technology-transfer arrangements.
+
+### 7. Third-party components
+
+This License applies exclusively to original materials owned by the copyright holder.
+
+Third-party libraries, datasets, dependencies and external materials remain subject to their respective licenses, terms of use and intellectual property rights.
+
+### 8. Disclaimer of warranties
+
+NeuroCore is provided "AS IS", without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, accuracy or non-infringement.
+
+The software is an experimental computational research tool. Its outputs must not be interpreted as clinically validated diagnoses, medical recommendations or independently established engineering safety guarantees.
+
+### 9. Limitation of liability
+
+To the maximum extent permitted by applicable law, the copyright holder shall not be liable for indirect, incidental, special or consequential damages arising from the use of, or inability to use, the software.
+
+Nothing in this License excludes liability that cannot lawfully be excluded.
+
+### 10. Termination
+
+Any rights granted under this License terminate automatically upon material breach of its terms.
+
+Termination does not affect the author's underlying intellectual property rights or remedies available under applicable law.
+
+### 11. Reservation of rights
+
+All rights not expressly granted under this License are reserved by the copyright holder.
+
+Requests for additional permissions, commercial licensing or institutional agreements should be directed to the copyright holder.
+
+---
+
+**Copyright holder:** Davide Luca Nicoletti  
+**ORCID:** 0009-0002-2605-7729  
+**Project:** NeuroCore  
+**License:** NeuroCore Research and Evaluation License 1.0
