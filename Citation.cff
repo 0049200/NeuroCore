@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+
+message: "If you use NeuroCore software, its computational architecture, or associated analytical methods in research, please cite this work using the following metadata."
+
+type: software
+
+authors:
+  - family-names: "Nicoletti"
+    given-names: "Davide Luca"
+    orcid: "https://orcid.org/0009-0002-2605-7729"
+
+title: "NeuroCore: A General Computational Architecture for Dynamic Systems Analysis and Structural Invariance Research"
+
+version: "1.5.0"
+date-released: "2026-06-04"
+
+abstract: >
+  NeuroCore is an experimental computational research architecture
+  designed to investigate dynamic organization, structural invariance,
+  functional stability, state transitions, resilience and temporal
+  evolution across heterogeneous systems.
+
+  Its methodological scope is not restricted to a predefined
+  scientific or application domain. The architecture provides
+  computational methods for the analysis of temporal dynamics,
+  structural relationships, cross-dataset consistency and
+  comparative system behavior.
+
+  Potential extensions include biological, physiological,
+  mechanical, computational, informational and semantic systems,
+  subject to the availability of appropriate representations,
+  operational definitions and independent empirical validation.
+
+  NeuroCore aims to investigate whether common computational
+  signatures and organizational properties can be identified
+  across systems with different underlying structures and
+  representations.
+
+  The generality, transferability and empirical validity of
+  the proposed methods remain open research questions.
+
+keywords:
+  - computational-architecture
+  - dynamical-systems
+  - complex-systems
+  - structural-invariance
+  - dynamic-invariants
+  - functional-stability
+  - state-transitions
+  - resilience
+  - temporal-dynamics
+  - cross-domain-analysis
+  - cross-dataset-validation
+  - computational-modeling
+  - information-systems
+  - semantic-systems
+  - systems-theory
