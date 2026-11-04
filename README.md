@@ -1,45 +1,38 @@
 # NeuroCore™
 
-**Experimental Research Framework**
+### General Computational Architecture for Dynamic Systems Analysis
 
-NeuroCore is an independent research project exploring functional-state analysis, dynamical systems, and the identification of transitions within complex systems.
+**Author:** Davide Luca Nicoletti  
+**ORCID:** [0009-0002-2605-7729](https://orcid.org/0009-0002-2605-7729)
 
-The project investigates conceptual and computational approaches to describing, measuring, and interpreting changes in system behavior over time.
+## Overview
 
-## Research Scope
+NeuroCore is an experimental computational architecture investigating dynamic organization, structural invariance, functional stability, state transitions and resilience across heterogeneous systems.
 
-* Functional-state analysis
-* Dynamical systems and transitions
-* Computational modeling
-* Experimental metrics and methodologies
-* AI-assisted research and development
+Its research objective is to investigate whether common computational signatures and organizational properties can be identified across different domains and representations, including biological, mechanical, informational and potentially semantic systems.
 
-## Research Status
+The architecture combines mathematical operators, iterative transformations, temporal analysis and cross-dataset validation.
 
-**Independent research — Experimental stage**
+Its generalizability and predictive capabilities remain subject to independent empirical validation.
 
-NeuroCore is an evolving conceptual and computational framework. Its methodologies and proposed metrics remain subject to further development, testing, and empirical validation.
+## Research Publications
 
-No claims of established predictive accuracy or scientific validation are made at this stage.
+The following Zenodo publications document the research, methodological development and experimental investigations associated with NeuroCore:
 
-## Repository Purpose
+- [10.5281/zenodo.19863936](https://doi.org/10.5281/zenodo.19863936)
+- [10.5281/zenodo.19103017](https://doi.org/10.5281/zenodo.19103017)
+- [10.5281/zenodo.19033105](https://doi.org/10.5281/zenodo.19033105)
+- [10.5281/zenodo.18953039](https://doi.org/10.5281/zenodo.18953039)
+- [10.5281/zenodo.18905519](https://doi.org/10.5281/zenodo.18905519)
 
-This repository serves as a minimal historical archive documenting the project's identity, research direction, and development milestones.
+## Repository Scope
 
-Technical implementations, proprietary algorithms, and unpublished research materials may be maintained separately.
+This repository contains the computational implementation, experimental analysis, validation procedures and ongoing development of NeuroCore.
 
-## Authorship
+For detailed experimental information, see [RESEARCH_AND_VALIDATION_REPORT.md](RESEARCH_AND_VALIDATION_REPORT.md).
 
-**Independent Research Project**
+## Author and Intellectual Property
 
-NeuroCore™ — Original conceptual research and development.
+Copyright © 2025 Davide Luca Nicoletti. All rights reserved.
 
-## Version
-
-**v0.1 — Initial GitHub Research Archive**
-
-October 2026
-
----
-
-*NeuroCore™ — Research in progress.*
+Use is governed by the NeuroCore Research and Evaluation License 1.0. See [LICENSE](LICENSE).
