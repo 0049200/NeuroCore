@@ -5,6 +5,7 @@
 *Descrizione del progetto e proposta preliminare di ricerca universitaria*
 
 **Autore:** Davide Luca Nicoletti
+
 **Ambito:** Architetture computazionali, sistemi dinamici, telemetria, controllo predittivo e robotica
 **Stato:** Ricerca indipendente esplorativa — proposta di validazione sperimentale
 
@@ -271,6 +272,6 @@ Questa costituisce la direzione di ricerca proposta, non un risultato scientific
 ---
 
 **Davide Luca Nicoletti**
-Independent Conceptual Research
+Independent Research
 
-*Human-originated research direction — AI-assisted formalization, computational development and documentation.*
+
