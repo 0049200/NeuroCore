@@ -1,0 +1,6 @@
+patient,edf_base,edf_path,seizure_index_in_file,onset_sec,end_sec,Horizon_sec,alarm_trel_sec
+chb06,chb06_01.edf,/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/CHBMIT/chb06_01.edf,1,1724.0,1738.0,1061.0,-1061.0
+chb06,chb06_01.edf,/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/CHBMIT/chb06_01.edf,2,7461.0,7476.0,431.0,-431.0
+chb06,chb06_01.edf,/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/CHBMIT/chb06_01.edf,3,13525.0,13540.0,169.0,-169.0
+chb06,chb06_09.edf,/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/CHBMIT/chb06_09.edf,1,12500.0,12516.0,595.0,-595.0
+chb06,chb06_10.edf,/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/CHBMIT/chb06_10.edf,1,10833.0,10845.0,827.0,-827.0
