@@ -25,12 +25,6 @@ The following Zenodo publications document the research, methodological developm
 - [10.5281/zenodo.18953039](https://doi.org/10.5281/zenodo.18953039)
 - [10.5281/zenodo.18905519](https://doi.org/10.5281/zenodo.18905519)
 
-## Repository Scope
-
-This repository contains the computational implementation, experimental analysis, validation procedures and ongoing development of NeuroCore.
-
-For detailed experimental information, see [RESEARCH_AND_VALIDATION_REPORT.md](RESEARCH_AND_VALIDATION_REPORT.md).
-
 ## Author and Intellectual Property
 
 Copyright © 2025 Davide Luca Nicoletti. All rights reserved.
