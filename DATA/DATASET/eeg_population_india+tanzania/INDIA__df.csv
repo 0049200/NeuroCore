@@ -1,0 +1,2 @@
+subject,file,onset_s,offset_s,preictal_mean,baseline_mean,delta_pre_minus_base,preictal_n,baseline_n,PREICTAL_S,BASELINE_S,dyn_csv,stab_col,time_col
+chb03,chb03_01.edf,362,414,0.8862696837786859,0.9109000101165629,-0.0246303263378769,60,12,300,300,/Volumes/KINGSTON/neurocore_lab/data/EEG/chbmit/neurocore_outputs_chbmit_stepC/chb03/chb03_chb03_01_functional_stability_stepC_dyn.csv,fc_similarity_prev,t_s
