@@ -1,0 +1,21 @@
+subject,session,task,run,relpath,error,sfreq_hz,n_channels,duration_sec,n_times
+sub-002,,FaceRecognition,,sub-002/eeg/._sub-002_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-002,,FaceRecognition,,sub-002/eeg/sub-002_task-FaceRecognition_eeg.set,,250.0,74.0,2991.0,747750.0
+sub-003,,FaceRecognition,,sub-003/eeg/._sub-003_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-003,,FaceRecognition,,sub-003/eeg/sub-003_task-FaceRecognition_eeg.set,,250.0,74.0,2966.0,741500.0
+sub-004,,FaceRecognition,,sub-004/eeg/._sub-004_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-004,,FaceRecognition,,sub-004/eeg/sub-004_task-FaceRecognition_eeg.set,,250.0,74.0,2996.0,749000.0
+sub-005,,FaceRecognition,,sub-005/eeg/._sub-005_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-005,,FaceRecognition,,sub-005/eeg/sub-005_task-FaceRecognition_eeg.set,,250.0,74.0,2976.0,744000.0
+sub-006,,FaceRecognition,,sub-006/eeg/._sub-006_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-006,,FaceRecognition,,sub-006/eeg/sub-006_task-FaceRecognition_eeg.set,,250.0,74.0,2967.0,741750.0
+sub-007,,FaceRecognition,,sub-007/eeg/._sub-007_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-007,,FaceRecognition,,sub-007/eeg/sub-007_task-FaceRecognition_eeg.set,,250.0,74.0,2953.0,738250.0
+sub-008,,FaceRecognition,,sub-008/eeg/._sub-008_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-008,,FaceRecognition,,sub-008/eeg/sub-008_task-FaceRecognition_eeg.set,,250.0,74.0,2955.0,738750.0
+sub-009,,FaceRecognition,,sub-009/eeg/._sub-009_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-009,,FaceRecognition,,sub-009/eeg/sub-009_task-FaceRecognition_eeg.set,,250.0,74.0,2970.0,742500.0
+sub-010,,FaceRecognition,,sub-010/eeg/._sub-010_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-010,,FaceRecognition,,sub-010/eeg/sub-010_task-FaceRecognition_eeg.set,,250.0,74.0,2958.0,739500.0
+sub-011,,FaceRecognition,,sub-011/eeg/._sub-011_task-FaceRecognition_eeg.set,MatFileReader.__init__() got an unexpected keyword argument 'uint16_codec',,,,
+sub-011,,FaceRecognition,,sub-011/eeg/sub-011_task-FaceRecognition_eeg.set,Mat file appears to be truncated,,,,
