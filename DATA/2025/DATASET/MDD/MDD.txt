@@ -1,0 +1,23 @@
+====================================================================
+REPORT DI SINTESI E VALUTAZIONE: ANALISI CLINICA MDD (DEPRESSIONE) OpenNeuro
+====================================================================
+
+1. PANORAMICA DEL CAMPIONE E DEL PROCESSO
+- Dataset: Registrazioni EEG cliniche di soggetti con Disturbo Depressivo Maggiore (MDD) registrate su 66 canali a una frequenza di campionamento di 500 Hz (totale di N = 94 soggetti analizzati).
+- Framework di estrazione: Applicazione di metriche di dinamica cerebrale non lineare, tra cui la stabilità media (mean_stability), la deviazione standard della stabilità, il proxy di persistenza (persistence_proxy) e l'indice di rigidità (rigidity_index).
+
+2. RISULTATI CHIAVE E EVIDENZE STATISTICHE
+Le analisi condotte dimostrano una solida stratificazione biologica e clinica dei pazienti in sottotipi distinti (subtype 0, 1, 2):
+- Differenziazione dei Sottotipi: Il file di sintesi (MDD_subtype_summary.csv) evidenzia differenze marcate nei profili di stabilità. Ad esempio, il Subunit/Subtype 0 (N = 41) mostra una mediana di stabilità media pari a 4.61 (IQR: 0.48), mentre il Subtype 1 (N = 10) presenta valori significativamente superiori (mediana = 6.24, IQR: 0.59), indicando dinamiche di transizione di stato alterate nella depressione.
+- Robustezza Statistica (Post-Hoc con correzione di Holm): L'applicazione dei test non parametrici di Kruskal-Wallis seguiti da confronti a coppie corretti con il metodo di Holm (MDD_subtype_stats_posthoc_holm.csv) certifica l'altissima significatività delle differenze riscontrate (p < 0.000005, p_holm < 0.00001).
+- Ampiezza dell'Effetto (Effect Size): I valori del d di Cohen oscillano in un range ampio e marcato (da -3.07 a +1.80), confermando che il framework di rigidità e stabilità non solo rileva variazioni statistiche, ma cattura differenze strutturali profonde e clinicamente rilevanti tra i sottotipi di MDD.
+- Validazione con Modelli Lineari Misti (LME): L'inclusione di modelli a effetti misti (lme03_1720.csv) garantisce che i risultati siano depurati da bias legati alla variabilità inter-soggetto, confermando la solidità inferenziale del modello.
+
+3. FILE SELEZIONATI PER IL REPOSITORY
+- MDD_features_with_subtype_rigidity_1562.csv: Caratteristiche individuali estratte per ciascuno dei 94 soggetti.
+- mdd_neurocore_metrics.csv: Metriche aggregate di stabilità, entropia e resilienza per run/soggetto.
+- MDD_subtype_summary.csv: Tabella descrittiva centrale con mediane e IQR per sottotipo.
+- MDD_subtype_stats_posthoc_holm.csv: Risultati formali del test statistico e correzioni post-hoc.
+- MSSV_signaturelab_summary_1460.csv: Estensione delle metriche di transizione sul sonno.
+- lme03_1720.csv: Matrice dei modelli lineari misti di controllo.
+====================================================================
