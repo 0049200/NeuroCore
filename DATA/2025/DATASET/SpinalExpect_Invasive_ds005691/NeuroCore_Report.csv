@@ -1,0 +1,9 @@
+file,dynamic_pressure,resilience,lambda,channels,samples,sfreq,AUC_total
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-06/ieeg/sub-06_task-countingDeviants_ieeg.vhdr,5.5771248298697174e-05,1.0,2.5593593818484806e-05,7,4005200,2500.0,0.0005877916337340139
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-04/ieeg/sub-04_task-countingDeviants_ieeg.vhdr,6.653950549662113e-05,1.0,3.3195348805747926e-05,7,5845200,2500.0,0.0005877916337340139
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-07/ieeg/sub-07_task-countingDeviants_ieeg.vhdr,7.154923514463007e-05,1.0,2.3697033611824736e-05,8,5566450,2500.0,0.0005877916337340139
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-02/ieeg/sub-02_task-countingDeviants_ieeg.vhdr,7.329313666559756e-05,1.0,4.149908272665925e-05,7,6897900,2500.0,0.0005877916337340139
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-09/ieeg/sub-09_task-countingDeviants_ieeg.vhdr,8.990604692371562e-05,0.9999998807907104,4.598262603394687e-05,7,9525300,2500.0,0.0005877916337340139
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-10/ieeg/sub-10_task-countingDeviants_ieeg.vhdr,9.21907922020182e-05,0.9999998807907104,4.805063144885935e-05,7,9456550,2500.0,0.0005877916337340139
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-03/ieeg/sub-03_task-countingDeviants_ieeg.vhdr,0.0001106563868233934,1.0,5.217776197241619e-05,7,6162850,2500.0,0.0005877916337340139
+/Volumes/KINGSTON/NeuroCore/neurocore_lab/data/EEG/SpinalExpect_Invasive_005691/sub-01/ieeg/sub-01_task-countingDeviants_ieeg.vhdr,0.00011154181265737861,1.0,6.234493048395962e-05,7,5812600,2500.0,0.0005877916337340139
