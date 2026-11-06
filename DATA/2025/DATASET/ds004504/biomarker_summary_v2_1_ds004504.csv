@@ -1,2 +1,0 @@
-Dataset,Subjects_included,Class0_n(Control),Class1_n(Alzheimer),Mean_AUC_nestedCV,STD_AUC_nestedCV,PR_AUC,Sensitivity_TPR@0.5,Specificity_TNR@0.5,SEGMENT_SEC,WINDOW_SEC,Bands,Features
-ds004504,65,29,36,0.7154761904761904,0.179458116059155,0.667875566322893,0.7222222222222222,0.5517241379310345,120,2.0,"{'delta': (1.0, 4.0), 'theta': (4.0, 8.0), 'alpha': (8.0, 12.0), 'beta': (13.0, 30.0)}","FSI_delta, FSI_theta, FSI_alpha, FSI_beta, BP_delta, BP_theta, BP_alpha, BP_beta, R_delta_alpha, R_deltatheta_alpha"
