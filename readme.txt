@@ -5,6 +5,7 @@
 * **Author:** Davide Luca Nicoletti  
 * **ORCID:** [0009-0002-2605-7729](https://orcid.org/0009-0002-2605-7729)  
 
+* **DATA** (https://github.com/0049200/NeuroCore_DATA)
 ---
 
 ## Overview
