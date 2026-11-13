@@ -37,19 +37,21 @@ https://doi.org/10.5281/zenodo.18905519
 Additional references: Frontoparietal networks and thalamocortical interactions.
 *Status: Experimental software prototype — partial implementation.*
 
-Central research question:
+### ODIN
 
-*Can an artificial system maintain a coherent representation of its situation by integrating internal conditions, external observations, context, and accumulated experience?*
+ODIN is a modular, neuro-inspired computational architecture under active development.
 
-**ODIN v0.6 + ODIN-M 3.0.**
+* Implementation: Python 3 / C++17
+* Architecture: Modular, multi-engine, hybrid Python/C++ runtime
+* Core components: Sensory processing, perception, contextual inference, relevance assessment, information discrimination, temporal segmentation, persistent memory
+* Native processing: C++ engines with Python interoperability
+* Persistence: SQLite-backed storage, event journaling, versioned memory and recovery mechanisms
+* Integration: Nine functional components defined; progressive implementation and interoperability testing
+* Testing: Synthetic benchmarks, real-world engineering datasets, integration and recovery tests
+* Research scope: Neuro-inspired information processing, dynamic state interpretation, computational memory and modular cognitive architectures
+* Validation status: Experimental; cross-domain performance and hardware deployment remain under evaluation
 
-ODIN v0.6 provides an experimental Python-based environment for dynamic information processing and state-related representations.
-
-Its modular ODIN-M 3.0 memory subsystem, implemented in C++17 and connected through a Python–C++ interface, supports numerical experience acquisition, associative retrieval, persistent storage, and version-controlled memory operations within its underlying engine.
-
-Synthetic multiscale tests covering 40–20,000 observations have verified memory acquisition, persistence, and retrieval after database restart.
-
-These results establish an initial operational software foundation, not biological equivalence or demonstrated artificial awareness.
+Development is ongoing. Additional functional structures and system-level integrations are planned.
 
 **The complete source code, implementation details, and experimental environment are currently maintained in a private research repository.**
 
