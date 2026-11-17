@@ -25,11 +25,11 @@
 
 *07	Attractor Basins	State stability and transitions*
 
-
-**The seven phases remain proposed functional abstractions, not yet implemented or validated as an integrated system.**
-
 https://doi.org/10.5281/zenodo.18905519
 
+Potential research directions include memristive synapses, artificial neuronal circuits, and hardware implementations of dynamic state transitions.
+
+No physical implementation or experimental validation in nanotechnology has yet been performed.
 
 ## Structure 02 - Salience Network 
 *Anterior insula and anterior cingulate cortex.*
