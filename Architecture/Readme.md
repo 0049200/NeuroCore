@@ -55,9 +55,5 @@ Development is ongoing. Additional functional structures and system-level integr
 
 **The complete source code, implementation details, and experimental environment are currently maintained in a private research repository.**
 
-### Future Neurofunctional Structures
 
-*NeuroCore will progressively document additional systems as research advances.*
-
-Potential domains include sensory processing, homeostatic regulation, episodic memory, motor coordination, executive control, and neuromodulation.
 
